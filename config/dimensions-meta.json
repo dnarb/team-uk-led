@@ -1,0 +1,149 @@
+{
+  "Scenario": {
+    "Slug": "Scenario",
+    "Name": "Scenario",
+    "IsLeaf": true
+  },
+  "Tech": {
+    "Slug": "Tech",
+    "Name": "Technology",
+    "IsLeaf": false
+  },
+  "VehType": {
+    "Slug": "VehType",
+    "Name": "Vehicle Type",
+    "IsLeaf": true,
+    "Colors": {
+      "WALK": "#fd7f6f",
+      "BIKE": "#7eb0d5",
+      "MOTO": "#b2e061",
+      "CAR": "#bd7ebe",
+      "BUS": "#ffb55a",
+      "TRUCK": "#ffee65",
+      "TRAIN": "#beb9db",
+      "SHIP": "#fdcce5",
+      "PLANE": "#8bd3c7"
+    }
+  },
+  "MassCat": {
+    "Slug": "MassCat",
+    "Name": "Size",
+    "IsLeaf": true,
+    "Colors": {
+      "1": "#67b0ff",
+      "2": "#1e80e8",
+      "3": "#004fa4",
+      "4": "#ecff6d",
+      "11": "#ffa4a4",
+      "12": "#ed6565",
+      "13": "#a72a2a",
+      "21": "#d7ff9f",
+      "22": "#97d244",
+      "23": "#5d8e19",
+      "24": "#48a33f",
+      "25": "#1e8214",
+      "26": "#4c7548",
+      "27": "#5da356",
+      "28": "#28ad52",
+      "31": "#b37e64",
+      "32": "#be734d",
+      "33": "#87472a",
+      "34": "#672b0d",
+      "41": "#4bb3a7",
+      "42": "#8fdbd2",
+      "43": "#2cbbaa",
+      "44": "#0c7367",
+      "51": "#b27dcf",
+      "52": "#8f36bf",
+      "53": "#571978"
+    }
+  },
+  "Fuel": {
+    "Slug": "Fuel",
+    "Name": "Fuel Type",
+    "IsLeaf": true
+  },
+  "Engine": {
+    "Slug": "Engine",
+    "Name": "Engine Type",
+    "IsLeaf": true
+  },
+  "Hybrid": {
+    "Slug": "Hybrid",
+    "Name": "Hybrid",
+    "IsLeaf": true,
+    "Colors": {
+      "0": "#ffcf77",
+      "1": "#3a81a2",
+      "2": "#bb6599"
+    }
+  },
+  "SecondHandImport": {
+    "Slug": "SecondHandImport",
+    "Name": "New / Second-hand Import",
+    "IsLeaf": true,
+    "Colors": {
+      "0": "#8ea3dc",
+      "1": "#e3ff88"
+    }
+  },
+  "TransType": {
+    "Slug": "TransType",
+    "Name": "Passenger / Freight",
+    "IsLeaf": true,
+    "Colors": {
+      "P": "#409253",
+      "F": "#9a9282"
+    }
+  },
+  "Emission": {
+    "Slug": "Emission",
+    "Name": "Emission",
+    "IsLeaf": true
+  },
+  "APEmission": {
+    "Slug": "APEmission",
+    "Name": "Emission",
+    "IsLeaf": true
+  },
+  "EType": {
+    "Slug": "EType",
+    "Name": "Emission Type",
+    "IsLeaf": true
+  },
+  "JSType": {
+    "Slug": "JSType",
+    "Name": "Journey Segment",
+    "IsLeaf": true
+  },
+  "MSMode": {
+    "Slug": "MSMode",
+    "Name": "Transport Mode",
+    "IsLeaf": true,
+    "Colors": {
+      "1": "#8dd3c7",
+      "2": "#ffffb3",
+      "3": "#bebada",
+      "4": "#fb8072",
+      "5": "#80b1d3",
+      "6": "#fdb462",
+      "7": "#b3de69",
+      "8": "#fccde5",
+      "9": "#d9d9d9",
+      "10": "#bc80bd",
+      "11": "#ccebc5",
+      "12": "#ffed6f",
+      "": "#cccccc"
+    }
+  },
+  "TripLen": {
+    "Slug": "TripLen",
+    "Name": "Trip Length",
+    "IsLeaf": true
+  },
+  "VehCat": {
+    "Slug": "VehCat",
+    "Name": "Total / New / Scrapped",
+    "IsLeaf": true
+  }
+}

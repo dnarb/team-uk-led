@@ -1,0 +1,11 @@
+ID,AB,NA
+2,CO,Carbon Monoxide
+4,NMVOC,Non-Methane Volatile Organic Compounds
+5,PM25,Particulates (2.5 um aerodynamic diameter)
+6,NOX,Nitrogen Oxides
+8,SO2,Sulphur Dioxide
+9,C6H6,Benzene
+10,C2H4,Ethylene
+11,HCHO,Formaldehyde
+13,PM10,Particulates (10 um aerodynamic diameter)
+14,PM>10,Particulates (>10 um aerodynamic diameter)

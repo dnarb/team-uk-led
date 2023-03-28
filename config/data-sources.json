@@ -1,0 +1,35 @@
+{
+  "NumVeh": {
+    "pathSchema": "NumVeh__{VehCat.ID}",
+    "title": "{VehCat} vehicles stock",
+    "yAxisTitle": "No. vehicles",
+    "numberFractionalDigits": 0
+  },
+  "VehKM": {
+    "pathSchema": "VehKM",
+    "title": "Total vehicle kilometres",
+    "yAxisTitle": "Vehicle-KM",
+    "numberFractionalDigits": 2,
+    "yAxisFractionalDigits": 0,
+    "numberDivisor": 1000000,
+    "numberDivisorText": "mln"
+  },
+  "GHG": {
+    "pathSchema": "GHG__{EType.ID}",
+    "title": "Greenhouse Gases: {EType}",
+    "yAxisTitle": "Mt CO₂ eq.",
+    "numberFractionalDigits": 3
+  },
+  "AP": {
+    "pathSchema": "AP__{APEmission.AB}",
+    "title": "Air Pollutants: {APEmission} emissions",
+    "yAxisTitle": "Tonnes",
+    "numberFractionalDigits": 4
+  },
+  "TD": {
+    "pathSchema": "TD",
+    "title": "Distance per year per person",
+    "yAxisTitle": "Kilometres",
+    "numberFractionalDigits": 2
+  }
+}

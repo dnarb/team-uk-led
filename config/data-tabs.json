@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "vehicle-stock",
+    "label": "Vehicle Stock",
+    "content": {
+      "variable": {
+        "name": "NumVeh",
+        "parameters": ["VehCat"]
+      },
+      "primarySelect": "Tech.VehType",
+      "secondarySelect": [
+        "Tech.MassCat",
+        "Tech.Fuel",
+        "Tech.Engine",
+        "Tech.TransType",
+        "Tech.Hybrid",
+        "Tech.SecondHandImport"
+      ],
+      "defaultChart": {
+        "type": "time-series",
+        "options": {}
+      }
+    }
+  },
+  {
+    "slug": "vehicle-km",
+    "label": "Vehicle KM",
+    "content": {
+      "variable": {
+        "name": "VehKM",
+        "parameters": []
+      },
+      "primarySelect": "Tech.VehType",
+      "secondarySelect": [
+        "Tech.MassCat",
+        "Tech.Fuel",
+        "Tech.Engine",
+        "Tech.TransType",
+        "Tech.Hybrid",
+        "Tech.SecondHandImport"
+      ],
+      "defaultChart": {
+        "type": "time-series",
+        "options": {}
+      }
+    }
+  },
+  {
+    "slug": "ghg-emissions",
+    "label": "GHG Emissions",
+    "content": {
+      "variable": {
+        "name": "GHG",
+        "parameters": ["EType"]
+      },
+      "primarySelect": "Tech.VehType",
+      "secondarySelect": [
+        "Tech.MassCat",
+        "Tech.Fuel",
+        "Tech.Engine",
+        "Tech.TransType",
+        "Tech.Hybrid",
+        "Tech.SecondHandImport"
+      ],
+      "defaultChart": {
+        "type": "time-series",
+        "options": {
+          "totalLine": true
+        }
+      }
+    }
+  },
+  {
+    "slug": "air-pollutants",
+    "label": "Air Pollutants",
+    "content": {
+      "variable": {
+        "name": "AP",
+        "parameters": ["APEmission"]
+      },
+
+      "primarySelect": "Tech.VehType",
+      "secondarySelect": [
+        "Tech.MassCat",
+        "Tech.Fuel",
+        "Tech.Engine",
+        "Tech.TransType",
+        "Tech.Hybrid",
+        "Tech.SecondHandImport"
+      ],
+      "defaultChart": {
+        "type": "time-series",
+        "options": {
+          "totalLine": true
+        }
+      }
+    }
+  },
+  {
+    "slug": "travel-demand",
+    "label": "Travel Demand",
+    "content": {
+      "variable": {
+        "name": "TD",
+        "parameters": []
+      },
+      "primarySelect": null,
+      "secondarySelect": [],
+      "operations": {
+        "MSMode": {
+          "aggregate": false,
+          "filter": null
+        }
+      },
+      "defaultChart": {
+        "type": "time-series",
+        "options": {}
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "img": "images/ccg-logo.png",
+    "tooltip": "Climate Compatible Growth",
+    "link": "https://climatecompatiblegrowth.com/",
+    "height": 50
+  },
+  {
+    "img": "images/ukaid-logo.png",
+    "tooltip": "UK Aid Direct",
+    "link": "https://www.ukaiddirect.org/",
+    "height": 50
+  },
+  {
+    "img": "images/strathmore-logo.png",
+    "tooltip": "Strathmore University",
+    "link": "https://strathmore.edu/",
+    "height": 50
+  },
+  {
+    "img": "images/uninairobi-logo.png",
+    "tooltip": "University of Nairobi",
+    "link": "https://www.uonbi.ac.ke/",
+    "height": 50
+  },
+  {
+    "img": "images/oxford-logo.png",
+    "tooltip": "University of Oxford",
+    "link": "https://www.ox.ac.uk/",
+    "height": 50
+  },
+  {
+    "img": "images/aemda-logo.png",
+    "tooltip": "Association for Electric Mobility & Development in Africa (AEMDA)",
+    "link": "https://aemda.org/",
+    "height": 50
+  },
+  {
+    "img": "images/imperial-logo.png",
+    "tooltip": "Imperical College London",
+    "link": "https://www.imperial.ac.uk/",
+    "height": 30
+  },
+  {
+    "img": "images/sust-trans-africa-logo.jpg",
+    "tooltip": "Sustainable Transport Africa",
+    "link": "https://www.sustainabletransportafrica.org/",
+    "height": 40
+  }
+]

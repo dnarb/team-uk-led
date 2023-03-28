@@ -1,0 +1,29 @@
+ID,NA
+1,Small
+2,Medium
+3,Large
+4,Average moto
+11,Mini
+12,Urban
+13,Coach
+21,PanelSideVan
+22,Medium
+23,Heavy
+24,CarDerivedVan
+25,Pickup4x4Van
+26,DropAndTipVan
+27,BoxLutonInsVan
+28,OtherVan
+31,Light
+32,Regional
+33,National
+34,High Speed
+35,Maglev
+41,General Aviation
+42,Short Distance
+43,Middle Distance
+44,Long Distance
+45,Supersonic
+51,River
+52,Coastal
+53,Maritime

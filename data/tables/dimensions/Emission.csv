@@ -1,0 +1,26 @@
+ID,AB,NA
+1,CO2,Carbon Dioxide
+2,CO,Carbon Monoxide
+3,CH4,Methane
+4,NMVOC,Non-Methane Volatile Organic Compounds
+5,PM25,Particulates (2.5 um aerodynamic diameter)
+6,NOX,Nitrogen Oxides
+7,N2O,Nitrous Oxide
+8,SO2,Sulphur Dioxide
+9,C6H6,Benzene
+10,C2H4,Ethylene
+11,HCHO,Formaldehyde
+13,PM10,Particulates (10 um aerodynamic diameter)
+14,PM>10,Particulates (>10 um aerodynamic diameter)
+15,II-III,Land Use Conversion from undeveloped to cultivated
+16,II-IV,Land Use Conversion from undeveloped to built up
+17,III-IV,Land Use Conversion from cultivated to built up
+18,LIG,Crude Lignite before Extraction
+19,COAL,Crude Hard Coal before Processing
+20,NGAS,Crude Natural Gas
+21,OIL,Crude Oil
+22,URAN,Uranium (Ore)
+23,NOISE,Noise
+24,VOC,(Total) Volatile Organic Compounds
+25,HYDRO,Potential Energy of Water
+26,BIOMASS,Biomass

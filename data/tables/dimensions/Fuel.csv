@@ -1,0 +1,16 @@
+ID,AB,NA
+1,GAS,Gasoline
+2,DIESEL,Diesel
+3,GAS_IMP,Improved Gasoline
+4,DIE_IMP,Improved Diesel
+5,LPG,Liquified Petroleum Gas
+6,MEOH,Biomethanol
+7,E85,Bioethanol(85)-petrol(15) blend
+8,B100,"Biodiesel (FT, synthetic)"
+10,CNG,Compressed Natural Gas
+11,CBG,Compressed Bio Gas
+12,EL,Electricity
+13,GH2,Gaseous Hydrogen
+14,LH2,Liquefied Hydrogen
+15,KEROSENE,Aviation fuel (Jet A-1)
+16,BIOJET,Bio jet fuel (100%)
