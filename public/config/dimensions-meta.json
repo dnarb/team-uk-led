@@ -1,16 +1,13 @@
 {
   "Scenario": {
-    "Slug": "Scenario",
     "Name": "Scenario",
     "IsLeaf": true
   },
   "Tech": {
-    "Slug": "Tech",
     "Name": "Technology",
     "IsLeaf": false
   },
   "VehType": {
-    "Slug": "VehType",
     "Name": "Vehicle Type",
     "IsLeaf": true,
     "Colors": {
@@ -26,7 +23,6 @@
     }
   },
   "MassCat": {
-    "Slug": "MassCat",
     "Name": "Size",
     "IsLeaf": true,
     "Colors": {
@@ -59,17 +55,14 @@
     }
   },
   "Fuel": {
-    "Slug": "Fuel",
     "Name": "Fuel Type",
     "IsLeaf": true
   },
   "Engine": {
-    "Slug": "Engine",
     "Name": "Engine Type",
     "IsLeaf": true
   },
   "Hybrid": {
-    "Slug": "Hybrid",
     "Name": "Hybrid",
     "IsLeaf": true,
     "Colors": {
@@ -79,7 +72,6 @@
     }
   },
   "SecondHandImport": {
-    "Slug": "SecondHandImport",
     "Name": "New / Second-hand Import",
     "IsLeaf": true,
     "Colors": {
@@ -88,7 +80,6 @@
     }
   },
   "TransType": {
-    "Slug": "TransType",
     "Name": "Passenger / Freight",
     "IsLeaf": true,
     "Colors": {
@@ -97,27 +88,22 @@
     }
   },
   "Emission": {
-    "Slug": "Emission",
     "Name": "Emission",
     "IsLeaf": true
   },
   "APEmission": {
-    "Slug": "APEmission",
     "Name": "Emission",
     "IsLeaf": true
   },
   "EType": {
-    "Slug": "EType",
     "Name": "Emission Type",
     "IsLeaf": true
   },
   "JSType": {
-    "Slug": "JSType",
     "Name": "Journey Segment",
     "IsLeaf": true
   },
   "MSMode": {
-    "Slug": "MSMode",
     "Name": "Transport Mode",
     "IsLeaf": true,
     "Colors": {
@@ -137,12 +123,10 @@
     }
   },
   "TripLen": {
-    "Slug": "TripLen",
     "Name": "Trip Length",
     "IsLeaf": true
   },
   "VehCat": {
-    "Slug": "VehCat",
     "Name": "Total / New / Scrapped",
     "IsLeaf": true
   }
