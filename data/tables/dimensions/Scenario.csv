@@ -1,3 +1,5 @@
 ID,AB,NA,Description
-0,OMOKA,Omoka,"High growth, strong action on transport (including promotion of PT & NMT)"
-1,STREETFIGHTING,Streetfighting,"Low growth, weak political will, low access to finance"
+0,OMOKA,"Omoka (""Growth"")","High growth, strong action on transport (including promotion of PT & NMT)"
+1,ELECTRICDREAMS,Electric Dreams,"High e-mobility growth, but focussed on private transport"
+2,KUJINAO,"Kujinao (""Know yourself"")","Strong political will, but low access to finance"
+3,STREETFIGHTING,Streetfighting,"Low growth, weak political will, low access to finance"
