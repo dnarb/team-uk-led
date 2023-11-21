@@ -1,6 +1,6 @@
 # TEAM-Kenya
 
-A data visualisation dashboard for the TEAM project - Kenya instance
+A data visualisation dashboard for the TEAM project - UK instance. Based on TEAM-Kenya interface developed by Maciej Ziarkowski
 
 ## Configuring the site
 
