@@ -1,4 +1,4 @@
-# TEAM-Kenya
+# TEAM-UK
 
 A data visualisation dashboard for the TEAM project - UK instance. Based on TEAM-Kenya interface developed by Maciej Ziarkowski
 
