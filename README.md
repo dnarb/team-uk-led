@@ -1,4 +1,4 @@
-# team-dash
+# team-uk
 
 A data visualisation dashboard for the Transport Energy Air pollution Model (TEAM). Based on TEAM-Kenya interface developed by Maciej Ziarkowski.
 
