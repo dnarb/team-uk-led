@@ -13,7 +13,7 @@ export default defineConfig({
       filter: (url) => url.startsWith('http://192'),
     }),
   ],
-  base: '/team-dash-uk/',
+  base: '/team-dash/',
   server: {
     open: true,
     host: '0.0.0.0',
