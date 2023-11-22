@@ -1,6 +1,6 @@
-# TEAM-UK
+# team-dash
 
-A data visualisation dashboard for the TEAM project - UK instance. Based on TEAM-Kenya interface developed by Maciej Ziarkowski
+A data visualisation dashboard for the Transport Energy Air pollution Model (TEAM). Based on TEAM-Kenya interface developed by Maciej Ziarkowski.
 
 ## Configuring the site
 
@@ -59,6 +59,9 @@ The following contents are required:
       - `Mode_Shares_TripLength.xlsx`
 
 ## Site config specification
+
+The deployment of the repo to github pages is done through the gh-pages branch.
+- `vite.config.ts` - contains base URL for github pages deployment. Ensure that it is set to github repo name, e.g. `team-dash`
 
 The configuration of the dashboard website is stored in the `public` folder:
 
