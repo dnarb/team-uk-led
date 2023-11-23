@@ -1,5 +1,5 @@
 ID,AB,NA,Description
-0,OMOKA,"Omoka (""Growth"")","High growth; investment in public transport & non-motorised transport, including subsidies for electric buses. High mode shifts towards public transport"
-1,ELECTRICDREAMS,Electric Dreams,"Significant subsidies to private electric mobility (motorcycles and cars). Strong economic growth, but lower than Omoka."
-2,KUJINAO,"Kujinao (""Know yourself"")","Strong political will for supporting public transport, but lower ability to provide subsidies in sector due to higher cost of finance"
-3,STREETFIGHTING,Streetfighting,"Low growth, weak political will, low access to finance causes 'perfect storm' of high-carbon technology lock-in, leading to high costs"
+0,BAU,Business-as-usual,Reference scenario for the UK. Committed and actionable policy only. Central economic and demographic projections.
+1,HIGHAMBITION,High Ambition,High ambition for reducing transport energy demand. Electrification and efficiency. Mode shift. Lower air travel.
+2,TRANSFORMATIVE,Transformative Change,Transformative change for reducing transport energy demand. Accelerated electrification and efficiency. Mode shift at scale. Much lower air travel.
+3,PHASEINPHASEOUT,HA phase out alternative,RoEP phase in the phase out. High ambition for reducing transport energy demand. Electrification and efficiency. Mode shift. Lower air travel.
