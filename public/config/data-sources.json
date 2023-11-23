@@ -28,7 +28,7 @@
   },
   "TD": {
     "pathSchema": "TD",
-    "title": "Distance per year per person",
+    "title": "Distance travelled per person per year",
     "yAxisTitle": "Kilometres",
     "numberFractionalDigits": 2
   }
