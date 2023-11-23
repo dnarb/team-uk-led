@@ -81,7 +81,7 @@ export const RootRoute = () => {
                   component={RouterLink}
                   to="/"
                 >
-                  TEAM Kenya
+                  TEAM UK
                 </Link>
               </Typography>
             </Toolbar>
