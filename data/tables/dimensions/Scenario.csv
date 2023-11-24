@@ -2,4 +2,4 @@ ID,AB,NA,Description
 0,BAU,Business-as-usual,Reference scenario for the UK. Committed and actionable policy only. Central economic and demographic projections.
 1,HIGHAMBITION,High Ambition,High ambition for reducing transport energy demand. Electrification and efficiency. Mode shift. Lower air travel.
 2,TRANSFORMATIVE,Transformative Change,Transformative change for reducing transport energy demand. Accelerated electrification and efficiency. Mode shift at scale. Much lower air travel.
-3,PHASEINPHASEOUT,HA phase out alternative,RoEP phase in the phase out. High ambition for reducing transport energy demand. Electrification and efficiency. Mode shift. Lower air travel.
+3,PHASEINPHASEOUT,BAU with early phase out alternative,tested RoEP phase in the phase out. Based on BAU.
