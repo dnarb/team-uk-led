@@ -1,10 +1,10 @@
 ID,AB,NA
 0,WALK,Walking
 1,BIKE,Bicycle
-2,MOTO,Motorcycle
+2,MOTO,Motorcycle + e-bikes
 3,CAR,Car
-4,BUS,Bus
-5,TRUCK,Truck
+4,BUS,Bus + coach
+5,TRUCK,Trucks and vans
 6,TRAIN,Train
 7,SHIP,Ship
 8,PLANE,Aeroplane
