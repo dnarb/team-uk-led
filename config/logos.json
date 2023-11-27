@@ -6,7 +6,7 @@
     "height": 50
   },
   {
-    "img": "images/creds-logo.png",
+    "img": "images/creds-logo.svg",
     "tooltip": "Centre for Research into Energy Demand Solutions",
     "link": "https://www.creds.ac.uk/",
     "height": 50
@@ -18,7 +18,7 @@
     "height": 50
   },
   {
-    "img": "images/oxford-eci-logo.png",
+    "img": "images/oxford-eci-logo.svg",
     "tooltip": "Environmental Change Institute",
     "link": "https://www.eci.ox.ac.uk/",
     "height": 50
