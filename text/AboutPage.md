@@ -17,3 +17,7 @@ The long-term aim of TEAM-UK is to provide a modelling framework for the country
 ## Data sources
 
 Quantitaive data collection (e.g. travel demand patterns; vehicle stock data; suitable technologies) was led by James Dixon and Christian Brand at the University of Oxford.
+
+## Funding
+
+TEAM was developed at the University of Oxford with support by UKRI under the UK Energy Research Centre (grants EP/S029575/1 phase 4, EP/L024756/1 phase 3) and Centre for Research into Energy Demand Solutions (CREDS). 
