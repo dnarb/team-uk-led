@@ -10,7 +10,9 @@ The long-term aim of TEAM-UK is to provide a modelling framework for the country
 
 ## Collaborators
 
-tbc
+- Environmental Change Institute, University of Oxford (Prof Christian Brand, PI, christian.brand(at)ouce.ox.ac.uk)
+- Institute for Transport Studies, University of Leeds (Prof Jillian Anable, Co-I)
+- University of Strathclyde (Dr James Dixon)
 
 ## Data sources
 
